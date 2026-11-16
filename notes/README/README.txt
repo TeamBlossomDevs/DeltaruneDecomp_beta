@@ -25,6 +25,7 @@ once you put all of the definitions where they need to go, feel free to delete i
 room instances in code are set as numbers (newer underanalyzer versions prefix it with 'inst_'), you need to fix them.
 
 The icon of the runner still needs to be manually extracted, you can either open it as a zip archive or use resourcehacker:
-https://www.angusj.com/resourcehacker/
+https://www.angusj.com/resourcehacker/ or Resource Cracker:
+https://www.pelock.com/products/resource-cracker
 
 If the project has sequences, make sure to check them, I wasnt able to toggle visibility and set color tracks on them, you may need to tweak them a bit.
